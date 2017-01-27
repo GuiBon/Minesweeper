@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="btn_reset">Reset game</string>
+    <string name="btn_marking_mode">Uncover mode | Swap to marking mode</string>
+    <string name="btn_uncover_mode">Marking mode | Swap to uncover mode</string>
+    <string name="tv_marked_mines_default">Marked mines: 0</string>
+    <string name="tv_marked_mines">Marked mines: 0</string>
+    <string name="tv_total_mines">Total mines: 20</string>
+</resources>
